@@ -11,7 +11,7 @@
 ........:::..:::::..::........::..:::::..::..:::::..::..:::::::::.......:::..:::::..::........:::......::::::..:::::
                                                                                               
 ```
-[![](https://img.shields.io/badge/Powerd%20By-DreamForest-brightgreen)](https://github.com/sub1to/subVersion_GTAO_Hack)
+[![](https://img.shields.io/badge/Powerd%20By-DreamForest-brightgreen)](https://github.com/DreamForestGTA5/DreamForest-GTA5-OL/)
 ![download](https://img.shields.io/github/downloads/DreamForestGTA5/DreamForest-GTA5-OL/total)
 
 
@@ -63,4 +63,4 @@ F9       | 保存设置并关闭修改器
 
 [点击捐赠](https://github.com/DreamForestGTA5/DreamForest-GTA5-OL/tree/main/Donate/)
 
-<img src="https://github.com/DreamForestGTA5/DreamForest-GTA5-OL/tree/main/Donate/WeChat.png" width="30%" height="30%"/>
+<img src="https://github.com/DreamForestGTA5/DreamForest-GTA5-OL/blob/main/Donate/WeChat.png" width="30%" height="30%"/>
