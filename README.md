@@ -18,12 +18,8 @@
 ## 目录
 
 - [支持的版本](#支持的版本)
-- [原版本](#原版本)
 - [使用说明](#使用说明)
 - [问题反馈](#问题反馈)
-- [相关仓库](#相关仓库)
-- [维护者](#维护者)
-- [使用许可](#使用许可)
 - [捐赠](#捐赠)
 
 ## 支持的版本
@@ -36,25 +32,15 @@ Steam版
 Epic Game版
 
 Social Club版
-## 原版本
-此辅助原版为[AmazingPP](@AmazingPP)开发的[SubVerison](https://github.com/AmazingPP/subVerison_GTAV_Hack)
+
 ## 使用说明
 ### 快捷键
 ```sh
-Numpad - | 打开菜单
-F9       | 保存设置并关闭修改器
-Numpad 5 | 开/关功能
-Numpad 0 | 返回
-Numpad 7 | 左翻页
-Numpad 9 | 右翻页
-Numpad 8 | 上翻
-Numpad 2 | 下翻
-Numpad 4 | 滑块向左
-Numpad 6 | 滑块向右
 F5       | 传送至导航点
 F6       | 清除通缉
 F7       | 满血满防弹衣
 F8       | 补满所有武器弹药
+F9       | 保存设置并关闭修改器
 ```
 
 ### 注意
